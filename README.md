@@ -1,2 +1,3 @@
 # Password-generator
 Password generator - Final Project for Computing Fundamentals for Engineers 
+This project will be run simply by requesting the length of the password, and possibly the number of characters, numbers, and special characters. There should also be a function to save the passwords so that they could be accessed. This should be done by generating the password and then the user inputting what the password is for. These passwords should then be able to be accessed through the user prompting which password they would like to see and possibly prompting a password to access the directories or passwords. 
